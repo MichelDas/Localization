@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{D8D206CF-FA86-2EF1-563F-78BBB021B50A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Editor/LocalizedTextEditing.cs">
+    <Files>
+      <File FileName="Assets/Localization/Scripts/LocalizationManager.cs" Line="66" Column="1" />
+      <File FileName="Assets/Localization/Scripts/LocalizationData.cs" />
+      <File FileName="Assets/Localization/Scripts/StartupManager.cs" />
+      <File FileName="Assets/Editor/LocalizedTextEditing.cs" Line="68" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="84e3f138-e2e8-4aba-8125-71d6d9b4dec4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
